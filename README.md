@@ -48,3 +48,7 @@ Your task is to design a file management system similar to Google Drive. Impleme
 1. Clone the repository:
    ```bash
    git clone <repo-link>
+
+
+ 6. **For testing test cases use command**
+  -- pytest test_file_management.py --disable-warnings
